@@ -12,7 +12,9 @@
 Export directly or bring your images into your project folder.
 ![Export option](/images/AD_export_persona.png)
 ![Export option](/images/spine_export.png)
+
 The exported json file should look something like this:
+
 ```
 {"skeleton":{"images":""},
 "bones":[{"name":"root"}],
