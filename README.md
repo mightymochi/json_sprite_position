@@ -16,6 +16,7 @@ Quickly position and order sprites according to spine json exported with an art 
 
 ## Select the json file
 ![Json](/images/choosejson.png)
+![Json](/images/choosejsonwindow.png)
 
 ## Set the offset
 ![Offset](/images/setoffset.png)
