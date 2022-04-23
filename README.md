@@ -1,4 +1,6 @@
 # JSON Sprite Position
+[Youtube walkthrough](https://www.youtube.com/watch?v=7mJKmoG47L4)
+
 - Quickly position and order sprites according to spine json exported with an art program. 
 - This script will reposition the nodes on the stage and reorder the nodes within the scene tree to match the layer order in the design file. 
 - This function will work for any node matching the names. So you could reparent the sprites to other nodes of a matching name and the script can still re-order everything. 
